@@ -1,0 +1,29 @@
+{
+  "name": "clase_16",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MonseCarlos/clase_16.git"
+  },
+  "author": "Raquel Monserrat Carlos <raquel_monserrat@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MonseCarlos/clase_16/issues"
+  },
+  "homepage": "https://github.com/MonseCarlos/clase_16#readme",
+  "dependencies": {
+    "http": "0.0.0",
+    "save": "^2.4.0",
+    "save-static": "^1.0.2",
+    "server-static": "^2.0.5",
+    "static": "^2.0.0"
+  },
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
